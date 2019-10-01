@@ -12,4 +12,4 @@ Configuração de Brilho.
 
 Configuração de Shift Light.
 
-![alt text](https://github.com/elielmarcos/RPM_Metter_PIC16F/Circuito_básico.png)
+![Screenshot](Circuito.png)
